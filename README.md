@@ -19,6 +19,12 @@ This project helps users record, manage, and review their daily expenses efficie
 
 - **Python** – Core programming language  
 - **Tkinter** – GUI development  
-- **SQLite** – Lightweight database for data storage  
+- **SQLite** – Lightweight database for data storage
+  
+---
+
+  ## output
+  <img width="1042" height="658" alt="image" src="https://github.com/user-attachments/assets/fde0ca6e-f744-461f-80c9-da46237666ba" />
+
 
 
